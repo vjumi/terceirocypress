@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\fixtures",
+    "\\cypress\\integration",
+    "\\cypress\\plugins",
+    "\\cypress\\report",
+    "\\cypress\\report\\mochawesome-report",
+    "\\cypress\\support"
+  ],
+  "PreviewInSolutionExplorer": false
+}

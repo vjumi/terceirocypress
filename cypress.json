@@ -1,0 +1,20 @@
+{
+  "baseUrl": "https://prescricao-dev.cfm.org.br/",
+
+  "responseTimeout": 10000,
+  "requestTimeout": 10000,
+  "retries": {
+    "runMode": 2,
+    "openMode": 2
+  },
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "cypress/report/mochawesome-report",
+    "overwrite": false,
+    "html": true,
+    "json": false,
+    "timestamp": "mmddyyyy_HHMMss",
+    "cdn": true,
+    "charts": true
+  }
+}
